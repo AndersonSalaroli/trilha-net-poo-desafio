@@ -11,4 +11,4 @@ nokia.InstalarAplicativo("WhatsApp");
 Smartphone iphone = new Iphone("2222", "Ihone 15", "000000", 128);
 iphone.Ligar();
 iphone.ReceberLigacao();
-iphone.InstalarAplicativo("Instaram");
+iphone.InstalarAplicativo("Instagram");
